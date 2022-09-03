@@ -1,3 +1,2 @@
 # natourtech
-web portfolio page
-DS homework
+web portfolio page - old :)
